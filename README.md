@@ -1,5 +1,5 @@
 - Ay, I'm Sammie!
-- A dumbass that likes to code.
+- A dude that likes to code.
 - Also like playing rhythm games and drawing
 
 <!---
